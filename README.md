@@ -26,3 +26,8 @@
 ### 📂 项目结构
 * `analysis.ipynb`: 包含数据清洗、可视化及模型构建的完整 Notebook。
 * `README.md`: 项目执行摘要与核心结论。
+
+---
+
+### 🚀 快速链接
+* [查看完整分析代码 (Notebook)](./e-commerce-user-behavior-analysis-and-rfm-model.ipynb) 
